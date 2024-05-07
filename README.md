@@ -1,1 +1,1 @@
-# Ecommerce-Redux-Toolkit-
+# Ecommerce-Redux-Toolkit
